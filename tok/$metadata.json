@@ -1,0 +1,12 @@
+{
+  "tokenSetOrder": [
+    "Primitives",
+    "Brand/WildSultan",
+    "Brand/WinOui",
+    "Brand/ImperialWin",
+    "Brand/LuckiSlots",
+    "Device/Mobile",
+    "Device/Laptop",
+    "Device/Desktop"
+  ]
+}

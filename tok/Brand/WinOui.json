@@ -1,0 +1,1164 @@
+{
+  "Component": {
+    "Button": {
+      "Background": {
+        "200": {
+          "Focused": {
+            "$type": "color",
+            "$value": "{Color.WinOui.4 #444444}"
+          },
+          "Enabled": {
+            "$type": "color",
+            "$value": "#ffffff00"
+          },
+          "Hovered": {
+            "$type": "color",
+            "$value": "#ffffff00"
+          }
+        },
+        "300": {
+          "Hovered": {
+            "$type": "color",
+            "$value": "{Color.WinOui.4 #444444}"
+          },
+          "Focused": {
+            "$type": "color",
+            "$value": "{Color.WinOui.4 #444444}"
+          },
+          "Enabled": {
+            "$type": "color",
+            "$value": "#ffffff00"
+          }
+        },
+        "600": {
+          "Enabled": {
+            "$type": "color",
+            "$value": "#ffffff"
+          },
+          "Hovered": {
+            "$type": "color",
+            "$value": "#ffffff"
+          },
+          "Focused": {
+            "$type": "color",
+            "$value": "#ffffff"
+          }
+        },
+        "700": {
+          "Enabled": {
+            "$type": "color",
+            "$value": "{Color.WinOui.2 #141414}"
+          },
+          "Hovered": {
+            "$type": "color",
+            "$value": "{Color.WinOui.1 #010101}"
+          },
+          "Focused": {
+            "$type": "color",
+            "$value": "{Color.WinOui.2 #141414}"
+          }
+        },
+        "800+Disabled": {
+          "Enabled": {
+            "$type": "color",
+            "$value": "{Color.WinOui.Green 1 #63CD42}"
+          },
+          "Hovered": {
+            "$type": "color",
+            "$value": "{Color.WinOui.Green 2 #6DFE40}"
+          },
+          "Focused": {
+            "$type": "color",
+            "$value": "{Color.WinOui.Green 1 #63CD42}"
+          }
+        }
+      },
+      "Stroke": {
+        "400": {
+          "Enabled+Disabled": {
+            "$type": "color",
+            "$value": "{Color.WinOui.6 #999999}"
+          },
+          "Focused": {
+            "$type": "color",
+            "$value": "{Color.WinOui.6 #999999}"
+          }
+        },
+        "500": {
+          "Enabled+Disabled": {
+            "$type": "color",
+            "$value": "{Color.WinOui.7 #FFFFFF}"
+          },
+          "Hovered": {
+            "$type": "color",
+            "$value": "{Color.WinOui.7 #FFFFFF}"
+          }
+        },
+        "600": {
+          "Enabled+Disabled": {
+            "$type": "color",
+            "$value": "#ffffff"
+          },
+          "Hover": {
+            "$type": "color",
+            "$value": "#ffffff"
+          },
+          "Focus": {
+            "$type": "color",
+            "$value": "#ffffff"
+          }
+        },
+        "700": {
+          "Enabled&Destructive": {
+            "$type": "color",
+            "$value": "{Color.WinOui.1 #010101}"
+          },
+          "Hover": {
+            "$type": "color",
+            "$value": "{Color.WinOui.1 #010101}"
+          },
+          "Focus": {
+            "$type": "color",
+            "$value": "{Color.WinOui.1 #010101}"
+          }
+        },
+        "800": {
+          "Enabled&Disabled": {
+            "$type": "color",
+            "$value": "{Color.WinOui.Green 2 #6DFE40}"
+          },
+          "Hover": {
+            "$type": "color",
+            "$value": "{Color.WinOui.Green 2 #6DFE40}"
+          },
+          "Focus": {
+            "$type": "color",
+            "$value": "{Color.WinOui.Green 1 #63CD42}"
+          }
+        }
+      },
+      "Shadow": {
+        "700": {
+          "Enabled": {
+            "$type": "color",
+            "$value": "#1414144d"
+          },
+          "Hover": {
+            "$type": "color",
+            "$value": "#1414144d"
+          },
+          "Focused": {
+            "$type": "color",
+            "$value": "#63cd424d"
+          }
+        },
+        "800": {
+          "Enabled": {
+            "$type": "color",
+            "$value": "#14141466"
+          },
+          "Hover": {
+            "$type": "color",
+            "$value": "#1414144d"
+          },
+          "Focused": {
+            "$type": "color",
+            "$value": "#63cd424d"
+          }
+        },
+        "Destructive": {
+          "Enabled": {
+            "$type": "color",
+            "$value": "#14141466"
+          },
+          "Hover": {
+            "$type": "color",
+            "$value": "#1414144d"
+          },
+          "Focused": {
+            "$type": "color",
+            "$value": "#f2524e4d"
+          }
+        },
+        "Focus": {
+          "$type": "color",
+          "$value": "{Color.WinOui.7 #FFFFFF}"
+        }
+      },
+      "Foreground": {
+        "200": {
+          "Enabled": {
+            "$type": "color",
+            "$value": "{Color.WinOui.6 #999999}"
+          },
+          "Hovered": {
+            "$type": "color",
+            "$value": "{Color.WinOui.7 #FFFFFF}"
+          },
+          "Focused": {
+            "$type": "color",
+            "$value": "{Color.WinOui.7 #FFFFFF}"
+          }
+        },
+        "300": {
+          "Enabled": {
+            "$type": "color",
+            "$value": "{Color.WinOui.7 #FFFFFF}"
+          },
+          "Hovered": {
+            "$type": "color",
+            "$value": "{Color.WinOui.7 #FFFFFF}"
+          },
+          "Focused": {
+            "$type": "color",
+            "$value": "{Color.WinOui.7 #FFFFFF}"
+          }
+        },
+        "600": {
+          "Enabled": {
+            "$type": "color",
+            "$value": "#ffffff"
+          },
+          "Hovered": {
+            "$type": "color",
+            "$value": "#ffffff"
+          },
+          "Focused": {
+            "$type": "color",
+            "$value": "#ffffff"
+          }
+        },
+        "700": {
+          "Enabled": {
+            "$type": "color",
+            "$value": "{Color.WinOui.7 #FFFFFF}"
+          },
+          "Hovered": {
+            "$type": "color",
+            "$value": "{Color.WinOui.Green 1 #63CD42}"
+          },
+          "Focused": {
+            "$type": "color",
+            "$value": "{Color.WinOui.7 #FFFFFF}"
+          }
+        },
+        "800+Disabled": {
+          "Enabled": {
+            "$type": "color",
+            "$value": "{Color.WinOui.1 #010101}"
+          },
+          "Hovered": {
+            "$type": "color",
+            "$value": "{Color.WinOui.1 #010101}"
+          },
+          "Focused": {
+            "$type": "color",
+            "$value": "{Color.WinOui.1 #010101}"
+          }
+        }
+      },
+      "Stroke Weight": {
+        "700": {
+          "Enabled&Disabled ↑": {
+            "$type": "number",
+            "$value": "0"
+          },
+          "Enabled&Disabled ↓": {
+            "$type": "number",
+            "$value": "2"
+          },
+          "Enabled&Disabled →": {
+            "$type": "number",
+            "$value": "0"
+          },
+          "Enabled+Disabled ←": {
+            "$type": "number",
+            "$value": "0"
+          },
+          "Hovered ↑": {
+            "$type": "number",
+            "$value": "0"
+          },
+          "Hovered ↓": {
+            "$type": "number",
+            "$value": "0"
+          },
+          "Hovered →": {
+            "$type": "number",
+            "$value": "0"
+          },
+          "Hovered ←": {
+            "$type": "number",
+            "$value": "0"
+          },
+          "Focused ↑": {
+            "$type": "number",
+            "$value": "0"
+          },
+          "Focused ↓": {
+            "$type": "number",
+            "$value": "0"
+          },
+          "Focused ←": {
+            "$type": "number",
+            "$value": "0"
+          },
+          "Focus →": {
+            "$type": "number",
+            "$value": "0"
+          }
+        },
+        "800+Destructive": {
+          "Enabled&Disabled ↑": {
+            "$type": "number",
+            "$value": "0"
+          },
+          "Enabled&Disabled ↓": {
+            "$type": "number",
+            "$value": "2"
+          },
+          "Enabled&Disabled →": {
+            "$type": "number",
+            "$value": "0"
+          },
+          "Enabled&Disabled ←": {
+            "$type": "number",
+            "$value": "0"
+          },
+          "Hovered ↑": {
+            "$type": "number",
+            "$value": "0"
+          },
+          "Hovered ↓": {
+            "$type": "number",
+            "$value": "0"
+          },
+          "Hovered →": {
+            "$type": "number",
+            "$value": "0"
+          },
+          "Hovered ←": {
+            "$type": "number",
+            "$value": "0"
+          },
+          "Focused ←": {
+            "$type": "number",
+            "$value": "0"
+          },
+          "Focused ↑": {
+            "$type": "number",
+            "$value": "0"
+          },
+          "Focused ↓": {
+            "$type": "number",
+            "$value": "2"
+          },
+          "Focused →": {
+            "$type": "number",
+            "$value": "0"
+          }
+        }
+      }
+    },
+    "Divider Inverted": {
+      "$type": "color",
+      "$value": "{Color.WinOui.6 #999999}"
+    },
+    "Effects": {
+      "Ovarlay": {
+        "$type": "color",
+        "$value": "#141414cc"
+      },
+      "Promotion": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "Thumbnail": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "Bonus": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "Bonus Image": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "Destructive": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "Success": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "Sidebar": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "Informative": {
+        "$type": "color",
+        "$value": "#ffffff"
+      }
+    },
+    "Search Bar": {
+      "$type": "color",
+      "$value": "{Color.WinOui.3 #262525}"
+    },
+    "Divider": {
+      "$type": "color",
+      "$value": "{Color.WinOui.4 #444444}"
+    },
+    "Alternative Button": {
+      "600": {
+        "Enabled": {
+          "$type": "color",
+          "$value": "#ffffff"
+        },
+        "Hovered": {
+          "$type": "color",
+          "$value": "#ffffff"
+        }
+      },
+      "700": {
+        "Enabled": {
+          "$type": "color",
+          "$value": "#ffffff"
+        },
+        "Hovered": {
+          "$type": "color",
+          "$value": "#ffffff"
+        }
+      }
+    },
+    "Selected Navigation Item": {
+      "$type": "color",
+      "$value": "{Color.WinOui.4 #444444}"
+    },
+    "Navigation": {
+      "$type": "color",
+      "$value": "{Color.WinOui.1 #010101}"
+    }
+  },
+  "Color": {
+    "Foreground": {
+      "Neutral": {
+        "Default": {
+          "300": {
+            "$type": "color",
+            "$value": "{Color.WinOui.5 #666666}"
+          },
+          "400": {
+            "$type": "color",
+            "$value": "{Color.WinOui.6 #999999}"
+          },
+          "500": {
+            "$type": "color",
+            "$value": "{Color.WinOui.7 #FFFFFF}"
+          }
+        },
+        "Inverted": {
+          "400": {
+            "$type": "color",
+            "$value": "{Color.WinOui.6 #999999}"
+          },
+          "500": {
+            "$type": "color",
+            "$value": "{Color.WinOui.7 #FFFFFF}"
+          }
+        }
+      },
+      "Destructive": {
+        "Default": {
+          "Enabled": {
+            "$type": "color",
+            "$value": "{Color.WinOui.Red 1 #F2524E}"
+          },
+          "Hovered": {
+            "$type": "color",
+            "$value": "{Color.WinOui.Red 2 #D8120D}"
+          },
+          "Focused": {
+            "$type": "color",
+            "$value": "{Color.WinOui.Red 3 #8E0300}"
+          }
+        },
+        "Inverted": {
+          "Default": {
+            "$type": "color",
+            "$value": "{Color.WinOui.Red 1 #F2524E}"
+          },
+          "Hovered": {
+            "$type": "color",
+            "$value": "{Color.WinOui.Red 2 #D8120D}"
+          },
+          "Focused": {
+            "$type": "color",
+            "$value": "{Color.WinOui.Red 3 #8E0300}"
+          }
+        }
+      },
+      "Other": {
+        "Disabled": {
+          "$type": "color",
+          "$value": "{Color.WinOui.5 #666666}"
+        },
+        "Gold": {
+          "$type": "color",
+          "$value": "{Color.WinOui.Gold #EBDC0F}"
+        },
+        "Silver": {
+          "$type": "color",
+          "$value": "{Color.WinOui.Silver #BDBDBD}"
+        },
+        "Bronze": {
+          "$type": "color",
+          "$value": "{Color.WinOui.Bronze #DA7416}"
+        },
+        "Thumbnail": {
+          "$type": "color",
+          "$value": "#1414144d"
+        },
+        "Disabled-Inverted": {
+          "$type": "color",
+          "$value": "{Color.WinOui.2 #141414}"
+        }
+      },
+      "Brand": {
+        "Primary": {
+          "Default": {
+            "300": {
+              "Enabled": {
+                "$type": "color",
+                "$value": "#ffffff"
+              }
+            },
+            "500": {
+              "Enabled": {
+                "$type": "color",
+                "$value": "{Color.WinOui.Green 1 #63CD42}"
+              },
+              "Hovered": {
+                "$type": "color",
+                "$value": "{Color.WinOui.Green 2 #6DFE40}"
+              },
+              "Focused": {
+                "$type": "color",
+                "$value": "{Color.WinOui.Green 3 #2AA006}"
+              }
+            }
+          },
+          "Inverted": {
+            "Enabled": {
+              "$type": "color",
+              "$value": "{Color.WinOui.Green 1 #63CD42}"
+            },
+            "Hovered": {
+              "$type": "color",
+              "$value": "{Color.WinOui.Green 2 #6DFE40}"
+            },
+            "Focused": {
+              "$type": "color",
+              "$value": "{Color.WinOui.Green 3 #2AA006}"
+            }
+          }
+        },
+        "Secondary": {
+          "Enabled": {
+            "$type": "color",
+            "$value": "#ffffff"
+          }
+        }
+      },
+      "OnNavigation": {
+        "400": {
+          "$type": "color",
+          "$value": "#ffffff"
+        },
+        "500": {
+          "$type": "color",
+          "$value": "{Color.WinOui.7 #FFFFFF}"
+        }
+      },
+      "Warning": {
+        "Enabled": {
+          "$type": "color",
+          "$value": "{Color.WinOui.Orange #F2994A}"
+        }
+      },
+      "Success": {
+        "Enabled": {
+          "$type": "color",
+          "$value": "#ffffff"
+        }
+      },
+      "Informative": {
+        "Enabled": {
+          "$type": "color",
+          "$value": "#ffffff"
+        }
+      },
+      "Accent": {
+        "Enabled": {
+          "$type": "color",
+          "$value": "#ffffff"
+        }
+      }
+    },
+    "Stroke": {
+      "Neutral": {
+        "Default": {
+          "200": {
+            "Enabled": {
+              "$type": "color",
+              "$value": "{Color.WinOui.4 #444444}"
+            },
+            "Hover": {
+              "$type": "color",
+              "$value": "{Color.WinOui.6 #999999}"
+            },
+            "Focused": {
+              "$type": "color",
+              "$value": "{Color.WinOui.7 #FFFFFF}"
+            }
+          },
+          "300": {
+            "Hover": {
+              "$type": "color",
+              "$value": "{Color.WinOui.6 #999999}"
+            },
+            "Enabled": {
+              "$type": "color",
+              "$value": "{Color.WinOui.5 #666666}"
+            },
+            "Focused": {
+              "$type": "color",
+              "$value": "{Color.WinOui.7 #FFFFFF}"
+            }
+          },
+          "400": {
+            "Enabled": {
+              "$type": "color",
+              "$value": "{Color.WinOui.4 #444444}"
+            }
+          },
+          "500": {
+            "Enabled": {
+              "$type": "color",
+              "$value": "{Color.WinOui.1 #010101}"
+            }
+          }
+        },
+        "Inverted": {
+          "300": {
+            "Enabled": {
+              "$type": "color",
+              "$value": "{Color.WinOui.5 #666666}"
+            },
+            "Hover": {
+              "$type": "color",
+              "$value": "{Color.WinOui.6 #999999}"
+            },
+            "Focused": {
+              "$type": "color",
+              "$value": "{Color.WinOui.7 #FFFFFF}"
+            }
+          },
+          "400": {
+            "Enabled": {
+              "$type": "color",
+              "$value": "{Color.WinOui.4 #444444}"
+            },
+            "Hover": {
+              "$type": "color",
+              "$value": "{Color.WinOui.5 #666666}"
+            },
+            "Focused": {
+              "$type": "color",
+              "$value": "{Color.WinOui.7 #FFFFFF}"
+            },
+            "Hovered": {
+              "$type": "color",
+              "$value": "{Color.WinOui.5 #666666}"
+            }
+          }
+        }
+      },
+      "Other": {
+        "Disabled": {
+          "$type": "color",
+          "$value": "{Color.WinOui.5 #666666}"
+        },
+        "Gold": {
+          "$type": "color",
+          "$value": "{Color.WinOui.Gold #EBDC0F}"
+        },
+        "Silver": {
+          "$type": "color",
+          "$value": "{Color.WinOui.Silver #BDBDBD}"
+        },
+        "Bronze": {
+          "$type": "color",
+          "$value": "{Color.WinOui.Bronze #DA7416}"
+        },
+        "Accent": {
+          "$type": "color",
+          "$value": "#ffffff"
+        },
+        "Disabled Inverted": {
+          "$type": "color",
+          "$value": "{Color.WinOui.4 #444444}"
+        }
+      },
+      "Brand": {
+        "Primary": {
+          "400": {
+            "Enabled": {
+              "$type": "color",
+              "$value": "#ffffff"
+            }
+          },
+          "500": {
+            "Enabled": {
+              "$type": "color",
+              "$value": "{Color.WinOui.Green 1 #63CD42}"
+            },
+            "Hover": {
+              "$type": "color",
+              "$value": "{Color.WinOui.Green 2 #6DFE40}"
+            },
+            "Focused": {
+              "$type": "color",
+              "$value": "{Color.WinOui.Green 3 #2AA006}"
+            },
+            "Hovered": {
+              "$type": "color",
+              "$value": "{Color.WinOui.Green 2 #6DFE40}"
+            }
+          }
+        },
+        "Secondary": {
+          "Enabled": {
+            "$type": "color",
+            "$value": "{Color.WinOui.Green 1 #63CD42}"
+          },
+          "Hover": {
+            "$type": "color",
+            "$value": "{Color.WinOui.Green 2 #6DFE40}"
+          },
+          "Focused": {
+            "$type": "color",
+            "$value": "#ffffff"
+          }
+        },
+        "Primary-Inverted": {
+          "Enabled": {
+            "$type": "color",
+            "$value": "{Color.WinOui.Green 1 #63CD42}"
+          },
+          "Hovered": {
+            "$type": "color",
+            "$value": "{Color.WinOui.Green 2 #6DFE40}"
+          },
+          "Focused": {
+            "$type": "color",
+            "$value": "{Color.WinOui.Green 3 #2AA006}"
+          }
+        }
+      },
+      "Destructive": {
+        "Default": {
+          "Enabled": {
+            "$type": "color",
+            "$value": "{Color.WinOui.Red 1 #F2524E}"
+          },
+          "Hovered": {
+            "$type": "color",
+            "$value": "{Color.WinOui.Red 2 #D8120D}"
+          },
+          "Focused": {
+            "$type": "color",
+            "$value": "{Color.WinOui.Red 3 #8E0300}"
+          }
+        },
+        "Inverted": {
+          "Default": {
+            "$type": "color",
+            "$value": "{Color.WinOui.Red 1 #F2524E}"
+          },
+          "Hovered": {
+            "$type": "color",
+            "$value": "{Color.WinOui.Red 2 #D8120D}"
+          },
+          "Focused": {
+            "$type": "color",
+            "$value": "{Color.WinOui.Red 3 #8E0300}"
+          }
+        }
+      },
+      "Warning": {
+        "Enabled": {
+          "$type": "color",
+          "$value": "{Color.WinOui.Orange #F2994A}"
+        }
+      },
+      "Success": {
+        "Enabled": {
+          "$type": "color",
+          "$value": "#ffffff"
+        }
+      },
+      "Informative": {
+        "Enabled": {
+          "$type": "color",
+          "$value": "#ffffff"
+        }
+      }
+    },
+    "Background": {
+      "Other": {
+        "Disabled 500": {
+          "$type": "color",
+          "$value": "{Color.WinOui.4 #444444}"
+        },
+        "Disabled-Inverted": {
+          "$type": "color",
+          "$value": "{Color.WinOui.2 #141414}"
+        },
+        "Disabled 400": {
+          "$type": "color",
+          "$value": "{Color.WinOui.5 #666666}"
+        }
+      },
+      "Neutral": {
+        "Inverted": {
+          "Elevation-1-500": {
+            "$type": "color",
+            "$value": "{Color.WinOui.3 #262525}"
+          },
+          "Elevation-1-500-Hovered": {
+            "$type": "color",
+            "$value": "{Color.WinOui.1 #010101}"
+          },
+          "Elevation-1-400": {
+            "$type": "color",
+            "$value": "#ffffff"
+          },
+          "Elevation-1-650": {
+            "$type": "color",
+            "$value": "{Color.WinOui.1 #010101}"
+          },
+          "Elevation-1-300": {
+            "$type": "color",
+            "$value": "{Color.WinOui.2 #141414}"
+          },
+          "Elevation-1-50": {
+            "$type": "color",
+            "$value": "{Color.WinOui.2 #141414}"
+          },
+          "Elevation-1-650-Hovered": {
+            "$type": "color",
+            "$value": "{Color.WinOui.4 #444444}"
+          },
+          "Elevation-1-800": {
+            "$type": "color",
+            "$value": "#ffffff"
+          }
+        },
+        "Default": {
+          "Elevation-0": {
+            "$type": "color",
+            "$value": "{Color.WinOui.3 #262525}"
+          },
+          "Elevation-1-500": {
+            "$type": "color",
+            "$value": "{Color.WinOui.3 #262525}"
+          },
+          "Elevation-1-300": {
+            "$type": "color",
+            "$value": "{Color.WinOui.2 #141414}"
+          },
+          "Elevation-1-100-Hovered": {
+            "$type": "color",
+            "$value": "{Color.WinOui.Green 1 #63CD42-10}"
+          },
+          "Elevation-1-100-Default": {
+            "$type": "color",
+            "$value": "{Color.WinOui.3 #262525}"
+          },
+          "Elevation-1-800": {
+            "$type": "color",
+            "$value": "{Color.WinOui.5 #666666}"
+          },
+          "Elevation-1-600": {
+            "$type": "color",
+            "$value": "{Color.WinOui.1 #010101}"
+          },
+          "Elevation-1-700": {
+            "$type": "color",
+            "$value": "{Color.WinOui.4 #444444}"
+          },
+          "Elevation-1-50": {
+            "$type": "color",
+            "$value": "{Color.WinOui.2 #141414}"
+          }
+        }
+      },
+      "Destructive": {
+        "Default": {
+          "Enabled": {
+            "$type": "color",
+            "$value": "{Color.WinOui.Red 1 #F2524E}"
+          },
+          "Hover": {
+            "$type": "color",
+            "$value": "{Color.WinOui.Red 2 #D8120D}"
+          },
+          "Focused": {
+            "$type": "color",
+            "$value": "{Color.WinOui.Red 3 #8E0300}"
+          }
+        },
+        "Inverted": {
+          "Enabled": {
+            "$type": "color",
+            "$value": "{Color.WinOui.Red 1 #F2524E}"
+          },
+          "Hover": {
+            "$type": "color",
+            "$value": "{Color.WinOui.Red 2 #D8120D}"
+          },
+          "Focused": {
+            "$type": "color",
+            "$value": "{Color.WinOui.Red 3 #8E0300}"
+          }
+        }
+      },
+      "Success": {
+        "Enabled": {
+          "$type": "color",
+          "$value": "{Color.WinOui.Green 1 #63CD42}"
+        }
+      },
+      "Brand": {
+        "Primary": {
+          "Default": {
+            "Enabled": {
+              "$type": "color",
+              "$value": "{Color.WinOui.Green 1 #63CD42}"
+            },
+            "Hovered": {
+              "$type": "color",
+              "$value": "{Color.WinOui.Green 2 #6DFE40}"
+            },
+            "Focused": {
+              "$type": "color",
+              "$value": "{Color.WinOui.Green 3 #2AA006}"
+            }
+          },
+          "Inverted": {
+            "Enabled": {
+              "$type": "color",
+              "$value": "{Color.WinOui.Green 1 #63CD42}"
+            },
+            "Hovered": {
+              "$type": "color",
+              "$value": "{Color.WinOui.Green 2 #6DFE40}"
+            },
+            "Focused": {
+              "$type": "color",
+              "$value": "{Color.WinOui.Green 3 #2AA006}"
+            }
+          }
+        },
+        "Secondary": {
+          "500": {
+            "Enabled": {
+              "$type": "color",
+              "$value": "{Color.WinOui.Green 1 #63CD42}"
+            },
+            "Hovered": {
+              "$type": "color",
+              "$value": "{Color.WinOui.Green 2 #6DFE40}"
+            },
+            "Focused": {
+              "$type": "color",
+              "$value": "{Color.WinOui.Green 2 #6DFE40}"
+            }
+          },
+          "600": {
+            "Enabled": {
+              "$type": "color",
+              "$value": "#ffffff"
+            }
+          }
+        }
+      },
+      "Warning": {
+        "Enabled": {
+          "$type": "color",
+          "$value": "{Color.WinOui.Yellow #FAFF05}"
+        }
+      },
+      "Informative": {
+        "Enabled": {
+          "$type": "color",
+          "$value": "#ffffff"
+        }
+      },
+      "Accent": {
+        "Accent-500": {
+          "$type": "color",
+          "$value": "#ffffff"
+        },
+        "Accent-100": {
+          "$type": "color",
+          "$value": "#ffffff"
+        }
+      }
+    }
+  },
+  "Other": {
+    "Figma Background": {
+      "$type": "color",
+      "$value": "{Color.WinOui.3 #262525}"
+    },
+    "Figma Border": {
+      "$type": "color",
+      "$value": "#9747ff"
+    },
+    "Typeface Body": {
+      "$type": "text",
+      "$value": "{Font.Body.WinOui}"
+    },
+    "Font Weight 600": {
+      "$type": "text",
+      "$value": "{Font Weight.Bold}"
+    },
+    "Brand": {
+      "$type": "text",
+      "$value": "{Brand.WinOui}"
+    },
+    "Font Weight 500": {
+      "$type": "text",
+      "$value": "{Font Weight.Regular}"
+    },
+    "Typeface Header": {
+      "$type": "text",
+      "$value": "{Font.Header.WinOui}"
+    }
+  },
+  "Corner Radius": {
+    "Button": {
+      "$type": "number",
+      "$value": "0"
+    },
+    "Input": {
+      "$type": "number",
+      "$value": "0"
+    },
+    "Checkbox": {
+      "$type": "number",
+      "$value": "4"
+    },
+    "Modal": {
+      "$type": "number",
+      "$value": "4"
+    },
+    "Chip": {
+      "$type": "number",
+      "$value": "0"
+    },
+    "Banner": {
+      "$type": "number",
+      "$value": "0"
+    },
+    "Thumbnail": {
+      "$type": "number",
+      "$value": "0"
+    },
+    "Search Bar": {
+      "$type": "number",
+      "$value": "0"
+    },
+    "Button Selector": {
+      "$type": "number",
+      "$value": "0"
+    },
+    "Accordeon": {
+      "$type": "number",
+      "$value": "0"
+    },
+    "Tag": {
+      "$type": "number",
+      "$value": "0"
+    },
+    "Table cell": {
+      "$type": "number",
+      "$value": "0"
+    },
+    "Bonus Image": {
+      "$type": "number",
+      "$value": "0"
+    },
+    "Carousel Control": {
+      "$type": "number",
+      "$value": "0"
+    },
+    "List Item Image": {
+      "$type": "number",
+      "$value": "0"
+    },
+    "Switcher": {
+      "$type": "number",
+      "$value": "0"
+    },
+    "VLT": {
+      "$type": "number",
+      "$value": "0"
+    },
+    "Progress Indicator": {
+      "$type": "number",
+      "$value": "0"
+    },
+    "Toast": {
+      "$type": "number",
+      "$value": "0"
+    },
+    "Small Banner": {
+      "$type": "number",
+      "$value": "0"
+    },
+    "Input Currency Trailing": {
+      "$type": "number",
+      "$value": "0"
+    }
+  },
+  "Spacing": {
+    "Desktop Template": {
+      "$type": "number",
+      "$value": "{Spacing.Desktop Template}"
+    },
+    "Laptop Template": {
+      "$type": "number",
+      "$value": "{Spacing.Laptop Template}"
+    },
+    "Mobile Template": {
+      "$type": "number",
+      "$value": "{Spacing.Mobile Template}"
+    },
+    "Mobile Width": {
+      "$type": "number",
+      "$value": "{Spacing.Mobile Width}"
+    },
+    "Laptop Width": {
+      "$type": "number",
+      "$value": "{Spacing.Laptop Width}"
+    },
+    "Desktop Width": {
+      "$type": "number",
+      "$value": "{Spacing.Desktop Width}"
+    }
+  }
+}
