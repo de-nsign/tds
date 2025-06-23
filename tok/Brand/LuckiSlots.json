@@ -1027,10 +1027,6 @@
     "Figma Border": {
       "$type": "color",
       "$value": "#9747ff"
-    },
-    "Brand": {
-      "$type": "text",
-      "$value": "{Brand.LuckiSpins}"
     }
   },
   "Corner Radius": {
@@ -1117,32 +1113,6 @@
     "Input Currency Trailing": {
       "$type": "number",
       "$value": "4"
-    }
-  },
-  "Spacing": {
-    "Desktop Template": {
-      "$type": "number",
-      "$value": "{Spacing.Desktop Template}"
-    },
-    "Laptop Template": {
-      "$type": "number",
-      "$value": "{Spacing.Laptop Template}"
-    },
-    "Mobile Template": {
-      "$type": "number",
-      "$value": "{Spacing.Mobile Template}"
-    },
-    "Mobile Width": {
-      "$type": "number",
-      "$value": "{Spacing.Mobile Width}"
-    },
-    "Laptop Width": {
-      "$type": "number",
-      "$value": "{Spacing.Laptop Width}"
-    },
-    "Desktop Width": {
-      "$type": "number",
-      "$value": "{Spacing.Desktop Width}"
     }
   },
   "Font Family": {
