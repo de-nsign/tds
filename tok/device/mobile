@@ -1,0 +1,268 @@
+{
+  "Misc": {
+    "Device": {
+      "$type": "text",
+      "$value": "{Device.Mobile}"
+    }
+  },
+  "Spacing": {
+    "Device Width": {
+      "$type": "number",
+      "$value": "320"
+    },
+    "Page Padding": {
+      "$type": "number",
+      "$value": "16"
+    },
+    "P16-24-24": {
+      "$type": "number",
+      "$value": "16"
+    },
+    "Side Navigation Width": {
+      "$type": "number",
+      "$value": "270"
+    },
+    "Template Width": {
+      "$type": "number",
+      "$value": "288"
+    },
+    "G32-48-64": {
+      "$type": "number",
+      "$value": "32"
+    },
+    "P16-24-32": {
+      "$type": "number",
+      "$value": "16"
+    },
+    "G12-16-16": {
+      "$type": "number",
+      "$value": "12"
+    },
+    "G16-24-24": {
+      "$type": "number",
+      "$value": "16"
+    },
+    "G16-20-20": {
+      "$type": "number",
+      "$value": "16"
+    }
+  },
+  "Font Size": {
+    "Display": {
+      "Display-1": {
+        "$type": "fontSizes",
+        "$value": "64"
+      },
+      "Display-2": {
+        "$type": "fontSizes",
+        "$value": "32"
+      },
+      "Display-3": {
+        "$type": "fontSizes",
+        "$value": "24"
+      }
+    },
+    "Header": {
+      "H1": {
+        "$type": "fontSizes",
+        "$value": "24"
+      },
+      "H2": {
+        "$type": "fontSizes",
+        "$value": "20"
+      },
+      "H3": {
+        "$type": "fontSizes",
+        "$value": "16"
+      },
+      "H4": {
+        "$type": "fontSizes",
+        "$value": "14"
+      }
+    },
+    "Scalable-Body": {
+      "Body-1": {
+        "$type": "fontSizes",
+        "$value": "24"
+      },
+      "Body-2": {
+        "$type": "fontSizes",
+        "$value": "20"
+      },
+      "Body-3": {
+        "$type": "fontSizes",
+        "$value": "16"
+      },
+      "Body-4": {
+        "$type": "fontSizes",
+        "$value": "14"
+      },
+      "Body-5": {
+        "$type": "fontSizes",
+        "$value": "12fontSizes"
+      },
+      "Body-6": {
+        "$type": "fontSizes",
+        "$value": "10"
+      }
+    },
+    "Fix-Body": {
+      "Body-1": {
+        "$type": "fontSizes",
+        "$value": "24"
+      },
+      "Body-3": {
+        "$type": "fontSizes",
+        "$value": "16"
+      },
+      "Body-4": {
+        "$type": "fontSizes",
+        "$value": "14"
+      },
+      "Body-5": {
+        "$type": "fontSizes",
+        "$value": "12"
+      },
+      "Body-6": {
+        "$type": "fontSizes",
+        "$value": "10"
+      },
+      "Body-2": {
+        "$type": "fontSizes",
+        "$value": "20"
+      }
+    },
+    "Component Typography": {
+      "CTA 400,300": {
+        "$type": "fontSizes",
+        "$value": "12"
+      },
+      "CTA 500": {
+        "$type": "fontSizes",
+        "$value": "14"
+      },
+      "CTA 600": {
+        "$type": "fontSizes",
+        "$value": "16"
+      }
+    }
+  },
+  "Line Height": {
+    "Display": {
+      "Display-1": {
+        "$type": "lineHeights",
+        "$value": "64"
+      },
+      "Display-2": {
+        "$type": "lineHeights",
+        "$value": "28"
+      }
+    },
+    "Header": {
+      "H1": {
+        "$type": "lineHeights",
+        "$value": "36"
+      },
+      "H2": {
+        "$type": "lineHeights",
+        "$value": "28"
+      },
+      "H3": {
+        "$type": "lineHeights",
+        "$value": "24"
+      },
+      "H4": {
+        "$type": "lineHeights",
+        "$value": "20"
+      },
+      "H5": {
+        "$type": "lineHeights",
+        "$value": "16"
+      },
+      "H6": {
+        "$type": "lineHeights",
+        "$value": "14"
+      }
+    },
+    "Fix-Body": {
+      "Body-1": {
+        "$type": "lineHeights",
+        "$value": "36"
+      },
+      "Body-2": {
+        "$type": "lineHeights",
+        "$value": "28"
+      },
+      "Body-3": {
+        "$type": "lineHeights",
+        "$value": "24"
+      },
+      "Body-4": {
+        "$type": "lineHeights",
+        "$value": "20"
+      },
+      "Body-5": {
+        "$type": "lineHeights",
+        "$value": "16"
+      },
+      "Body-6": {
+        "$type": "lineHeights",
+        "$value": "14"
+      }
+    },
+    "Component Typography": {
+      "CTA 400,300": {
+        "$type": "lineHeights",
+        "$value": "12"
+      },
+      "CTA 500": {
+        "$type": "lineHeights",
+        "$value": "14"
+      },
+      "CTA 600": {
+        "$type": "lineHeights",
+        "$value": "16"
+      }
+    },
+    "Scalable-Body": {
+      "Body-1": {
+        "$type": "lineHeights",
+        "$value": "36"
+      },
+      "Body-2": {
+        "$type": "lineHeights",
+        "$value": "28"
+      },
+      "Body-3": {
+        "$type": "lineHeights",
+        "$value": "24"
+      },
+      "Body-4": {
+        "$type": "lineHeights",
+        "$value": "20"
+      },
+      "Body-5": {
+        "$type": "lineHeights",
+        "$value": "16"
+      },
+      "Body-6": {
+        "$type": "lineHeights",
+        "$value": "14"
+      }
+    }
+  },
+  "Grid": {
+    "Count": {
+      "$type": "number",
+      "$value": "2"
+    },
+    "Margin": {
+      "$type": "number",
+      "$value": "16"
+    },
+    "Gutter": {
+      "$type": "number",
+      "$value": "16"
+    }
+  }
+}
