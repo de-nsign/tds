@@ -227,9 +227,6 @@
       "Color.ImperialWin.Yellow 300": "b433afc8a85e26059eeca172798d7a7c0baee94f",
       "Color.ImperialWin.Yellow 500-50": "0b187fa60ee96985cf41d55b9038dbb2ee4d93a9",
       "Color.ImperialWin.Orange 500": "d90607f6e2cdeefa2f38137527e8baa9da778774",
-      "Device.Desktop": "50961a6a8d3b74ccf785bc004d688fd2726d4318",
-      "Device.Laptop": "b2c798ccdd9706a3b14cd41efd21599894719c2b",
-      "Device.Mobile": "830a32a28579d089025736b56424d4710fd110bc",
       "Brand.WinOui": "4d7a7d9e12f596b25fd4df9f850282570eb13c4e",
       "Brand.WildSultan": "9495c1fa5c02016dd45acb1c78f3b96162ac750e",
       "Brand.SpinWiz": "2493b142d26a339f94e0ba7176c42554fac109e9",
@@ -827,7 +824,6 @@
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
-      "Misc.Device": "854f743ee0c5e8bdce9dcb6481129aa33171cfda",
       "Spacing.Device Width": "c7d21c9492d3d8ad018c702d880c1c8a4a3fe001",
       "Spacing.Page Padding": "ad96ecfcba1d1992bba757e10b7650b652c7fad9",
       "Spacing.P16-24-24": "94a874f2bf1526f79235add733d7b25aaacd2afe",
@@ -900,7 +896,6 @@
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
-      "Misc.Device": "854f743ee0c5e8bdce9dcb6481129aa33171cfda",
       "Spacing.Device Width": "c7d21c9492d3d8ad018c702d880c1c8a4a3fe001",
       "Spacing.Page Padding": "ad96ecfcba1d1992bba757e10b7650b652c7fad9",
       "Spacing.P16-24-24": "94a874f2bf1526f79235add733d7b25aaacd2afe",
@@ -973,7 +968,6 @@
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
-      "Misc.Device": "854f743ee0c5e8bdce9dcb6481129aa33171cfda",
       "Spacing.Device Width": "c7d21c9492d3d8ad018c702d880c1c8a4a3fe001",
       "Spacing.Page Padding": "ad96ecfcba1d1992bba757e10b7650b652c7fad9",
       "Spacing.P16-24-24": "94a874f2bf1526f79235add733d7b25aaacd2afe",

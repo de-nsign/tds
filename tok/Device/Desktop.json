@@ -1,10 +1,4 @@
 {
-  "Misc": {
-    "Device": {
-      "$type": "text",
-      "$value": "{Device.Desktop}"
-    }
-  },
   "Spacing": {
     "Device Width": {
       "$type": "number",
