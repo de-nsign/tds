@@ -1,44 +1,44 @@
 {
-  "Spacing": {
+  "Dimension": {
     "Device Width": {
-      "$type": "number",
-      "$value": "1920"
+      "$type": "dimension",
+      "$value": "1920px"
     },
     "Page Padding": {
-      "$type": "number",
-      "$value": "76"
+      "$type": "dimension",
+      "$value": "76px"
     },
     "P16-24-24": {
-      "$type": "number",
-      "$value": "24"
+      "$type": "dimension",
+      "$value": "24px"
     },
     "Side Navigation Width": {
-      "$type": "number",
-      "$value": "360"
+      "$type": "dimension",
+      "$value": "360px"
     },
     "Template Width": {
-      "$type": "number",
-      "$value": "1768"
+      "$type": "dimension",
+      "$value": "1768px"
     },
     "G32-48-64": {
-      "$type": "number",
-      "$value": "64"
+      "$type": "dimension",
+      "$value": "64px"
     },
     "P16-24-32": {
-      "$type": "number",
-      "$value": "32"
+      "$type": "dimension",
+      "$value": "32px"
     },
     "G12-16-16": {
-      "$type": "number",
-      "$value": "16"
+      "$type": "dimension",
+      "$value": "16px"
     },
     "G16-24-24": {
-      "$type": "number",
-      "$value": "24"
+      "$type": "dimension",
+      "$value": "24px"
     },
     "G16-20-20": {
-      "$type": "number",
-      "$value": "20"
+      "$type": "dimension",
+      "$value": "20px"
     }
   },
   "Font Size": {
@@ -243,20 +243,6 @@
         "$type": "lineHeights",
         "$value": "16"
       }
-    }
-  },
-  "Grid": {
-    "Count": {
-      "$type": "number",
-      "$value": "12"
-    },
-    "Margin": {
-      "$type": "number",
-      "$value": "76"
-    },
-    "Gutter": {
-      "$type": "number",
-      "$value": "32"
     }
   }
 }

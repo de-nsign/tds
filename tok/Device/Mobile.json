@@ -1,43 +1,43 @@
 {
-  "Spacing": {
+  "Dimension": {
     "Device Width": {
-      "$type": "number",
+      "$type": "dimension",
       "$value": "320"
     },
     "Page Padding": {
-      "$type": "number",
+      "$type": "dimension",
       "$value": "16"
     },
     "P16-24-24": {
-      "$type": "number",
+      "$type": "dimension",
       "$value": "16"
     },
     "Side Navigation Width": {
-      "$type": "number",
+      "$type": "dimension",
       "$value": "270"
     },
     "Template Width": {
-      "$type": "number",
+      "$type": "dimension",
       "$value": "288"
     },
     "G32-48-64": {
-      "$type": "number",
+      "$type": "dimension",
       "$value": "32"
     },
     "P16-24-32": {
-      "$type": "number",
+      "$type": "dimension",
       "$value": "16"
     },
     "G12-16-16": {
-      "$type": "number",
+      "$type": "dimension",
       "$value": "12"
     },
     "G16-24-24": {
-      "$type": "number",
+      "$type": "dimension",
       "$value": "16"
     },
     "G16-20-20": {
-      "$type": "number",
+      "$type": "dimension",
       "$value": "16"
     }
   },
@@ -243,20 +243,6 @@
         "$type": "lineHeights",
         "$value": "14"
       }
-    }
-  },
-  "Grid": {
-    "Count": {
-      "$type": "number",
-      "$value": "2"
-    },
-    "Margin": {
-      "$type": "number",
-      "$value": "16"
-    },
-    "Gutter": {
-      "$type": "number",
-      "$value": "16"
     }
   }
 }
