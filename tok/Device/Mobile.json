@@ -4,6 +4,10 @@
       "$type": "dimension",
       "$value": "320"
     },
+    "Template Width": {
+      "$type": "dimension",
+      "$value": "288"
+    },
     "Page Padding": {
       "$type": "dimension",
       "$value": "16"
@@ -15,10 +19,6 @@
     "Side Navigation Width": {
       "$type": "dimension",
       "$value": "270"
-    },
-    "Template Width": {
-      "$type": "dimension",
-      "$value": "288"
     },
     "G32-48-64": {
       "$type": "dimension",
