@@ -40,8 +40,7 @@
       "Component Typography.CTA.400,300": "S:d2c515eb2a7dbedbb6fe85e0bb73cd8fc6db50b8,"
     },
     "selectedTokenSets": {
-      "Primitives": "enabled",
-      "Brand/WildSultan_Copy": "disabled"
+      "Primitives": "enabled"
     },
     "$figmaVariableReferences": {
       "Color.WinOui.1 #010101": "dfc24274dd661d64b8a1669362c9574415d0dd56",
@@ -290,8 +289,7 @@
       "Primitives": "source",
       "Device/Mobile": "source",
       "Device/Laptop": "source",
-      "Device/Desktop": "source",
-      "Brand/WildSultan_Copy": "disabled"
+      "Device/Desktop": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:40004001:67003",
     "$figmaModeId": "40004001:0",
@@ -536,7 +534,7 @@
       "Border Width.800+Destructive.Focused →": "9b66e66a82f67388e73ce87b7f08eba594a6cd9d",
       "Effect.Blur": "de590e3ae94a7971595f49f4a01c56654d0ef9d1"
     },
-    "group": "WildSultan"
+    "group": "Brand WildSultan"
   },
   {
     "id": "5056ac1043347c5bda4c1303adac2da9fed92e00",
@@ -547,8 +545,7 @@
       "Device/Laptop": "source",
       "Device/Desktop": "source",
       "Brand/LuckiSlots": "enabled",
-      "Primitives": "source",
-      "Brand/WildSultan_Copy": "disabled"
+      "Primitives": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:40004001:67004",
     "$figmaModeId": "40004001:1",
@@ -795,15 +792,14 @@
       "Font Weight.500": "db5beb2230b2fa1ed8816074605d98a837a6d0d0",
       "Font Weight.600": "e256717cdaa586095effea0c47500a6b444786a4"
     },
-    "group": "LuckiSpins"
+    "group": "Brand LuckiSpins"
   },
   {
     "id": "device-mobile",
     "name": "Mobile",
     "selectedTokenSets": {
       "Device/Mobile": "enabled",
-      "Primitives": "source",
-      "Brand/WildSultan_Copy": "disabled"
+      "Primitives": "source"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
@@ -872,8 +868,7 @@
     "name": "Laptop",
     "selectedTokenSets": {
       "Device/Laptop": "enabled",
-      "Primitives": "source",
-      "Brand/WildSultan_Copy": "disabled"
+      "Primitives": "source"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
@@ -942,8 +937,7 @@
     "name": "Desktop",
     "selectedTokenSets": {
       "Device/Desktop": "enabled",
-      "Primitives": "source",
-      "Brand/WildSultan_Copy": "disabled"
+      "Primitives": "source"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
@@ -1018,6 +1012,6 @@
       "Device/Desktop": "source",
       "Brand/WildSultan_Copy": "enabled"
     },
-    "group": "WildSultan"
+    "group": "Brand WildSultan"
   }
 ]
