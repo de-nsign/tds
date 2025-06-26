@@ -43,6 +43,7 @@
       "Primitives": "enabled"
     },
     "$figmaVariableReferences": {
+      "Color.123": "767690783cc209d94baf5637b6c5a1f6c2bbd5f7",
       "Color.WinOui.1 #010101": "6651714ca8d67f4a9a1ee853f825a0744338262f",
       "Color.WinOui.2 #141414": "863f7687b3048625341bbe0de820471e2a2d7d88",
       "Color.WinOui.3 #262525": "2994a74a65112660ffebfb95f8db8523b4e1bff0",
@@ -220,8 +221,7 @@
       "Color.ImperialWin.Yellow 400": "48f108d7dfb526167107b60c036f806dbb0a46c7",
       "Color.ImperialWin.Yellow 300": "901b7b6ec7f4cc78374854c8738e120baab8b10f",
       "Color.ImperialWin.Yellow 500-50": "30f35d3ee0a78c3be51a1cb424a42bfc2f9b8025",
-      "Color.ImperialWin.Orange 500": "bbe9729dc0758fe398cc3e0b0fd93565d51406ea",
-      "Color.123": "767690783cc209d94baf5637b6c5a1f6c2bbd5f7"
+      "Color.ImperialWin.Orange 500": "bbe9729dc0758fe398cc3e0b0fd93565d51406ea"
     },
     "$figmaCollectionId": "VariableCollectionId:382:40787",
     "$figmaModeId": "382:0",
