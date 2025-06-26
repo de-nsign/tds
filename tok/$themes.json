@@ -40,7 +40,8 @@
       "Component Typography.CTA.400,300": "S:d2c515eb2a7dbedbb6fe85e0bb73cd8fc6db50b8,"
     },
     "selectedTokenSets": {
-      "Primitives": "enabled"
+      "Primitives": "enabled",
+      "Brand/WildSultan_Copy": "disabled"
     },
     "$figmaVariableReferences": {
       "Color.WinOui.1 #010101": "dfc24274dd661d64b8a1669362c9574415d0dd56",
@@ -289,7 +290,8 @@
       "Primitives": "source",
       "Device/Mobile": "source",
       "Device/Laptop": "source",
-      "Device/Desktop": "source"
+      "Device/Desktop": "source",
+      "Brand/WildSultan_Copy": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:40004001:67003",
     "$figmaModeId": "40004001:0",
@@ -545,7 +547,8 @@
       "Device/Laptop": "source",
       "Device/Desktop": "source",
       "Brand/LuckiSlots": "enabled",
-      "Primitives": "source"
+      "Primitives": "source",
+      "Brand/WildSultan_Copy": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:40004001:67004",
     "$figmaModeId": "40004001:1",
@@ -799,7 +802,8 @@
     "name": "Mobile",
     "selectedTokenSets": {
       "Device/Mobile": "enabled",
-      "Primitives": "source"
+      "Primitives": "source",
+      "Brand/WildSultan_Copy": "disabled"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
@@ -868,7 +872,8 @@
     "name": "Laptop",
     "selectedTokenSets": {
       "Device/Laptop": "enabled",
-      "Primitives": "source"
+      "Primitives": "source",
+      "Brand/WildSultan_Copy": "disabled"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
@@ -937,7 +942,8 @@
     "name": "Desktop",
     "selectedTokenSets": {
       "Device/Desktop": "enabled",
-      "Primitives": "source"
+      "Primitives": "source",
+      "Brand/WildSultan_Copy": "disabled"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
@@ -1000,5 +1006,18 @@
     "$figmaModeId": "18146:0",
     "$figmaCollectionId": "VariableCollectionId:8998:97930",
     "group": "Device"
+  },
+  {
+    "id": "15beb2c9974ad362009d40f64cccdb563bb74dbe",
+    "name": "WS Copy",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Primitives": "source",
+      "Device/Mobile": "source",
+      "Device/Laptop": "source",
+      "Device/Desktop": "source",
+      "Brand/WildSultan_Copy": "enabled"
+    },
+    "group": "WildSultan"
   }
 ]
