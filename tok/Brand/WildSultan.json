@@ -1258,5 +1258,9 @@
       "$type": "dimension",
       "$value": "10px"
     }
+  },
+  "Rectangles": {
+    "$type": "asset",
+    "$value": "https://i.postimg.cc/brTwpP5K/Rectangles.png"
   }
 }

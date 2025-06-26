@@ -1,5 +1,9 @@
 {
   "Color": {
+    "123": {
+      "$type": "color",
+      "$value": "#123"
+    },
     "WinOui": {
       "1 #010101": {
         "$type": "color",
