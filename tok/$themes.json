@@ -1000,18 +1000,5 @@
     "$figmaModeId": "18146:0",
     "$figmaCollectionId": "VariableCollectionId:8998:97930",
     "group": "Device"
-  },
-  {
-    "id": "15beb2c9974ad362009d40f64cccdb563bb74dbe",
-    "name": "WS Copy",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "Primitives": "source",
-      "Device/Mobile": "source",
-      "Device/Laptop": "source",
-      "Device/Desktop": "source",
-      "Brand/WildSultan_Copy": "enabled"
-    },
-    "group": "Brand WildSultan"
   }
 ]
