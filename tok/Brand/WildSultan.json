@@ -1262,5 +1262,13 @@
   "Rectangles": {
     "$type": "asset",
     "$value": "https://i.postimg.cc/brTwpP5K/Rectangles.png"
+  },
+  "Banner Image": {
+    "$type": "asset",
+    "$value": "https://i.postimg.cc/4yC4R51H/Banner-Image.png"
+  },
+  "Banner Gradient": {
+    "$type": "color",
+    "$value": "linear-gradient(90deg, rgba({Color.WildSultan.Purple 900}, 1) 50%, rgba({Color.WildSultan.Purple 900}, 0) 100%);"
   }
 }
