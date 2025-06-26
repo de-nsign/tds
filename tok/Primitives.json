@@ -727,7 +727,7 @@
         "$type": "typography",
         "$value": {
           "fontFamily": "{Font Family.Body}",
-          "fontWeight": "{Font Weight.500}",
+          "fontWeight": "{Font Weight.600}",
           "lineHeight": "{Font Size.Display.Display-1}",
           "fontSize": "{Font Size.Display.Display-1}"
         }
