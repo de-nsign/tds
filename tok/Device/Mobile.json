@@ -2,11 +2,11 @@
   "Dimension": {
     "Device Width": {
       "$type": "dimension",
-      "$value": "320"
+      "$value": "360"
     },
     "Template Width": {
       "$type": "dimension",
-      "$value": "288"
+      "$value": "328"
     },
     "Page Padding": {
       "$type": "dimension",
