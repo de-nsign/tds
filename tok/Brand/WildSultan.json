@@ -1027,103 +1027,227 @@
   },
   "Border Width": {
     "700": {
-      "Enabled&Disabled ↑": {
-        "$type": "borderWidth",
-        "$value": "1"
+      "Enabled&Disabled": {
+        "Top": {
+          "$type": "borderWidth",
+          "$value": "1"
+        },
+        "Right": {
+          "$type": "borderWidth",
+          "$value": "1"
+        },
+        "Bottom": {
+          "$type": "borderWidth",
+          "$value": "1"
+        },
+        "Left": {
+          "$type": "borderWidth",
+          "$value": "1"
+        }
       },
-      "Enabled&Disabled ↓": {
-        "$type": "borderWidth",
-        "$value": "1"
+      "Hovered": {
+        "Top": {
+          "$type": "borderWidth",
+          "$value": "0"
+        },
+        "Right": {
+          "$type": "borderWidth",
+          "$value": "0"
+        },
+        "Bottom": {
+          "$type": "borderWidth",
+          "$value": "0"
+        },
+        "Left": {
+          "$type": "borderWidth",
+          "$value": "0"
+        }
       },
-      "Enabled&Disabled →": {
-        "$type": "borderWidth",
-        "$value": "1"
-      },
-      "Enabled+Disabled ←": {
-        "$type": "borderWidth",
-        "$value": "1"
-      },
-      "Hovered ↑": {
-        "$type": "borderWidth",
-        "$value": "1"
-      },
-      "Hovered ↓": {
-        "$type": "borderWidth",
-        "$value": "1"
-      },
-      "Hovered →": {
-        "$type": "borderWidth",
-        "$value": "1"
-      },
-      "Hovered ←": {
-        "$type": "borderWidth",
-        "$value": "1"
-      },
-      "Focused ↑": {
-        "$type": "borderWidth",
-        "$value": "1"
-      },
-      "Focused ↓": {
-        "$type": "borderWidth",
-        "$value": "1"
-      },
-      "Focused ←": {
-        "$type": "borderWidth",
-        "$value": "1"
-      },
-      "Focus →": {
-        "$type": "borderWidth",
-        "$value": "1"
+      "Focused": {
+        "Top": {
+          "$type": "borderWidth",
+          "$value": "0"
+        },
+        "Right": {
+          "$type": "borderWidth",
+          "$value": "0"
+        },
+        "Bottom": {
+          "$type": "borderWidth",
+          "$value": "0"
+        },
+        "Left": {
+          "$type": "borderWidth",
+          "$value": "0"
+        }
       }
     },
-    "800+Destructive": {
-      "Enabled&Disabled ↑": {
-        "$type": "borderWidth",
-        "$value": "0"
+    "800": {
+      "Enabled&Disabled": {
+        "Top": {
+          "$type": "borderWidth",
+          "$value": "0"
+        },
+        "Right": {
+          "$type": "borderWidth",
+          "$value": "0"
+        },
+        "Bottom": {
+          "$type": "borderWidth",
+          "$value": "0"
+        },
+        "Left": {
+          "$type": "borderWidth",
+          "$value": "0"
+        }
       },
-      "Enabled&Disabled ↓": {
-        "$type": "borderWidth",
-        "$value": "0"
+      "Hovered": {
+        "Top": {
+          "$type": "borderWidth",
+          "$value": "0"
+        },
+        "Right": {
+          "$type": "borderWidth",
+          "$value": "0"
+        },
+        "Bottom": {
+          "$type": "borderWidth",
+          "$value": "0"
+        },
+        "Left": {
+          "$type": "borderWidth",
+          "$value": "0"
+        }
       },
-      "Enabled&Disabled →": {
-        "$type": "borderWidth",
-        "$value": "0"
+      "Focused": {
+        "Top": {
+          "$type": "borderWidth",
+          "$value": "0"
+        },
+        "Right": {
+          "$type": "borderWidth",
+          "$value": "0"
+        },
+        "Bottom": {
+          "$type": "borderWidth",
+          "$value": "0"
+        },
+        "Left": {
+          "$type": "borderWidth",
+          "$value": "0"
+        }
+      }
+    },
+    "800 Destructive": {
+      "Enabled&Disabled": {
+        "Top": {
+          "$type": "borderWidth",
+          "$value": "0"
+        },
+        "Right": {
+          "$type": "borderWidth",
+          "$value": "0"
+        },
+        "Bottom": {
+          "$type": "borderWidth",
+          "$value": "0"
+        },
+        "Left": {
+          "$type": "borderWidth",
+          "$value": "0"
+        }
       },
-      "Enabled&Disabled ←": {
-        "$type": "borderWidth",
-        "$value": "0"
+      "Hovered": {
+        "Top": {
+          "$type": "borderWidth",
+          "$value": "0"
+        },
+        "Right": {
+          "$type": "borderWidth",
+          "$value": "0"
+        },
+        "Bottom": {
+          "$type": "borderWidth",
+          "$value": "0"
+        },
+        "Left": {
+          "$type": "borderWidth",
+          "$value": "0"
+        }
       },
-      "Hovered ↑": {
-        "$type": "borderWidth",
-        "$value": "0"
+      "Focused": {
+        "Top": {
+          "$type": "borderWidth",
+          "$value": "0"
+        },
+        "Right": {
+          "$type": "borderWidth",
+          "$value": "0"
+        },
+        "Bottom": {
+          "$type": "borderWidth",
+          "$value": "0"
+        },
+        "Left": {
+          "$type": "borderWidth",
+          "$value": "0"
+        }
+      }
+    },
+    "700 Destructive": {
+      "Enabled&Disabled": {
+        "Top": {
+          "$type": "borderWidth",
+          "$value": "1"
+        },
+        "Right": {
+          "$type": "borderWidth",
+          "$value": "1"
+        },
+        "Bottom": {
+          "$type": "borderWidth",
+          "$value": "1"
+        },
+        "Left": {
+          "$type": "borderWidth",
+          "$value": "1"
+        }
       },
-      "Hovered ↓": {
-        "$type": "borderWidth",
-        "$value": "0"
+      "Hovered": {
+        "Top": {
+          "$type": "borderWidth",
+          "$value": "0"
+        },
+        "Right": {
+          "$type": "borderWidth",
+          "$value": "0"
+        },
+        "Bottom": {
+          "$type": "borderWidth",
+          "$value": "0"
+        },
+        "Left": {
+          "$type": "borderWidth",
+          "$value": "0"
+        }
       },
-      "Hovered →": {
-        "$type": "borderWidth",
-        "$value": "0"
-      },
-      "Hovered ←": {
-        "$type": "borderWidth",
-        "$value": "0"
-      },
-      "Focused ←": {
-        "$type": "borderWidth",
-        "$value": "0"
-      },
-      "Focused ↑": {
-        "$type": "borderWidth",
-        "$value": "0"
-      },
-      "Focused ↓": {
-        "$type": "borderWidth",
-        "$value": "0"
-      },
-      "Focused →": {
-        "$type": "borderWidth",
-        "$value": "0"
+      "Focused": {
+        "Top": {
+          "$type": "borderWidth",
+          "$value": "0"
+        },
+        "Right": {
+          "$type": "borderWidth",
+          "$value": "0"
+        },
+        "Bottom": {
+          "$type": "borderWidth",
+          "$value": "0"
+        },
+        "Left": {
+          "$type": "borderWidth",
+          "$value": "0"
+        }
       }
     }
   },
